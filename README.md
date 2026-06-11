@@ -5,8 +5,7 @@ Single-file static site. No build step, no dependencies. Hosts free on GitHub Pa
 ```
 portfolio/
 ├── index.html          # the whole site (markup + styles + content)
-└── assets/
-    └── profile.jpg      # your photo — swap to replace
+└── profile.jpg      # your photo — swap to replace
 ```
 
 ---
